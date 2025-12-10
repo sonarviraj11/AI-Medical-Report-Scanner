@@ -1,0 +1,35 @@
+Medical Case Report  
+Patient ID: 458902  
+Name: Sarah Thompson  
+Age: 42  
+Gender: Female  
+Date of Report: 2024-11-12  
+
+Chief Complaint:  
+The patient presents with persistent fatigue, unexplained weight gain, dry skin, and sensitivity to cold. She also reports difficulty concentrating, occasional depression, and irregular menstrual cycles over the past six months.  
+
+Medical History:  
+Family History: Mother has hypothyroidism; father has hypertension.  
+Personal Medical History:  
+Hypothyroidism: Suspected based on symptoms, not previously diagnosed.  
+Anemia: Diagnosed at age 35, treated with iron supplements.  
+Lifestyle Factors: Works as a schoolteacher, moderate physical activity, no tobacco use, occasional red wine consumption.  
+Medications: None currently.  
+
+Recent Lab and Diagnostic Results:  
+Thyroid Panel: Elevated TSH (6.8 µIU/mL), low free T4 (0.6 ng/dL) — indicative of primary hypothyroidism.  
+CBC: Mild normocytic anemia (Hemoglobin: 11.2 g/dL).  
+Lipid Profile: Elevated LDL cholesterol (160 mg/dL), low HDL cholesterol (38 mg/dL).  
+
+Physical Examination Findings:  
+Vital Signs: Blood pressure 128/84 mmHg, heart rate 68 bpm, BMI 26.7.  
+General Appearance: Pale skin, coarse hair texture.  
+Neck: Slight enlargement of the thyroid gland without nodules.  
+Neurological: Reflexes slightly delayed.  
+
+Diagnosis: Primary Hypothyroidism.  
+Recommendations:  
+- Start Levothyroxine 50 mcg/day.  
+- Recheck TSH and T4 in 6 weeks.  
+- Monitor lipid profile.  
+- Encourage a balanced diet rich in iodine and iron.  
